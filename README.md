@@ -1,4 +1,4 @@
 # CG-CBITInternshipTasks (Roll Number 160121737142)
-Task 1 (2 JUN 23) : HTML WEBSITE
+Task 1 (2 Jun 23) : HTML Website (Open 142_Ananya(HTML Website).html)
 <br>
-Open 142_Ananya(HTML Website).html
+Task 2 (3 Jun 23) : Login & Registration Page (Open index.html,login.html)
